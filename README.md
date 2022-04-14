@@ -1,2 +1,5 @@
 # Jeux_Quantik_Php
-Jeux de quantik écrit en php
+## Accueil
+![vue1](ClassAffichage/Image1.png)
+## Table de jeux
+![vue1](ClassAffichage/Image2.png)
